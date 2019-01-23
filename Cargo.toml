@@ -1,0 +1,11 @@
+[package]
+name = "monopoly"
+version = "0.1.0"
+authors = ["Adam Harries <adam.harries@codeplay.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "^0.6"
+enum-primitive-derive = "^0.1"
+num-traits = "^0.1"
+# enum-primitive-derive = "0.1.2"
